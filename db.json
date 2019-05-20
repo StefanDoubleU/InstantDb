@@ -1,3 +1,113 @@
 {
-  "profile": { "name": "typicode" }
+  "register": 
+  {
+    "RegisterOffset": 100,
+    "StrokeCounter": 123,
+    "Time": "2007-12-24T18:21:43Z",
+    "Status": {
+      "PullingEdgeOk": true,
+      "PullingEdgeNotOk": true,
+      "CrackInspectionOk": true,
+      "CrackInspectionWarning": true,
+      "CrackInspectionNotOk": true,
+      "MeasureOk": true,
+      "MeasureWarning": true,
+      "MeasureNotOk": true,
+      "FeatureInspectionOk": true,
+      "FeatureInspectionNotOk": true,
+      "PullingBehaviorOk": true,
+      "PullingBehaviorNotOk": true,
+      "ToolMeasurementOk": true,
+      "ToolMeasurementNotOk": true,
+      "HourBlankRemoval": true
+    },
+    "LeftSubParts": [
+      {
+        "Code": "Code1",
+        "IsPseudoPart": false,
+        "Status": {
+          "PullingEdgeOk": true,
+          "PullingEdgeNotOk": true,
+          "CrackInspectionOk": true,
+          "CrackInspectionWarning": true,
+          "CrackInspectionNotOk": true,
+          "MeasureOk": true,
+          "MeasureWarning": true,
+          "MeasureNotOk": true,
+          "FeatureInspectionOk": true,
+          "FeatureInspectionNotOk": true,
+          "PullingBehaviorOk": true,
+          "PullingBehaviorNotOk": true,
+          "ToolMeasurementOk": true,
+          "ToolMeasurementNotOk": true,
+          "HourBlankRemoval": true
+        }
+      },
+      {
+        "Code": "Code2",
+        "IsPseudoPart": false,
+        "Status": {
+          "PullingEdgeOk": true,
+          "PullingEdgeNotOk": true,
+          "CrackInspectionOk": true,
+          "CrackInspectionWarning": true,
+          "CrackInspectionNotOk": true,
+          "MeasureOk": true,
+          "MeasureWarning": true,
+          "MeasureNotOk": true,
+          "FeatureInspectionOk": true,
+          "FeatureInspectionNotOk": true,
+          "PullingBehaviorOk": true,
+          "PullingBehaviorNotOk": true,
+          "ToolMeasurementOk": true,
+          "ToolMeasurementNotOk": true,
+          "HourBlankRemoval": true
+        }
+      }
+    ],
+    "RightSubParts": [
+      {
+        "Code": "Code3",
+        "IsPseudoPart": false,
+        "Status": {
+          "PullingEdgeOk": true,
+          "PullingEdgeNotOk": true,
+          "CrackInspectionOk": true,
+          "CrackInspectionWarning": true,
+          "CrackInspectionNotOk": true,
+          "MeasureOk": true,
+          "MeasureWarning": true,
+          "MeasureNotOk": true,
+          "FeatureInspectionOk": true,
+          "FeatureInspectionNotOk": true,
+          "PullingBehaviorOk": true,
+          "PullingBehaviorNotOk": true,
+          "ToolMeasurementOk": true,
+          "ToolMeasurementNotOk": true,
+          "HourBlankRemoval": true
+        }
+      },
+      {
+        "Code": "Code4",
+        "IsPseudoPart": false,
+        "Status": {
+          "PullingEdgeOk": true,
+          "PullingEdgeNotOk": true,
+          "CrackInspectionOk": true,
+          "CrackInspectionWarning": true,
+          "CrackInspectionNotOk": true,
+          "MeasureOk": true,
+          "MeasureWarning": true,
+          "MeasureNotOk": true,
+          "FeatureInspectionOk": true,
+          "FeatureInspectionNotOk": true,
+          "PullingBehaviorOk": true,
+          "PullingBehaviorNotOk": true,
+          "ToolMeasurementOk": true,
+          "ToolMeasurementNotOk": true,
+          "HourBlankRemoval": true
+        }
+      }
+    ]
+  }
 }
